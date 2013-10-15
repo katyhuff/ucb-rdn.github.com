@@ -27,11 +27,13 @@ First Steps
 
 3. Add this repository as a remote called `upstream`
 
+   ```cd ucb-rdn.github.com```
    ```git remote add upstream git@github.com:ucb-rdn/ucb-rdn.github.com``` 
 
-4. Create a branch called master
+4. Create a branch called master that tracks the upstream master branch
 
-   ``` git branch master```
+   ``` git fetch upstream```
+   ``` git branch master --track upstream/master```
 
 Best practice workflow for contributing to site changes
 --------------------------------------------------------
