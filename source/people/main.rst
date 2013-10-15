@@ -8,7 +8,7 @@ Faculty
 .. toctree::
    :maxdepth: 1
    
-   neutron_nancy
+   vujic_jasmina
 
 Staff
 -----
@@ -18,7 +18,6 @@ Staff
 
    seifried_jeffrey
    huff_katy 
-   schmoe_joe
 
 
 Students
@@ -29,8 +28,7 @@ Students
    
    bergmann_ryan
    disanzo_christian
-   doe_jane
-   isotope_igor
-
+   Jiankai_YU
+   rowland_kelly
 
 
