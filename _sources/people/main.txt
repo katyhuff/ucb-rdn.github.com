@@ -7,8 +7,8 @@ Faculty
 
 .. toctree::
    :maxdepth: 1
-
-   vujic_jasmina 
+   
+   vujic_jasmina
 
 Staff
 -----
@@ -30,7 +30,5 @@ Students
    disanzo_christian
    Jiankai_YU
    rowland_kelly
-
-
 
 
