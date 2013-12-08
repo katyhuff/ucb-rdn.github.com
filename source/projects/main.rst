@@ -10,5 +10,5 @@ design, simulation, and analysis of advanced reactors.
 .. toctree::
    :maxdepth: 1
 
-   mocdown
+   mocdown/mocdown
 

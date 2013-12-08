@@ -17,26 +17,46 @@ threading and efficient regex parsing when possible) and fast post-processing
 also employs object-oriented programming in Python 3 for flexible modification
 with external libraries.
 
+|
+|
+|
+|
 
 .. figure:: mocdown_coupling.png
+   :width: 700px
    :scale: 50 %
    :alt: Three coupled models in MocDown
 
-   MocDown couples three models for self-consistent simulations: thermo-fluids, neutron transport, and transmutation and recycling.
+   Figure 1: MocDown couples three models for self-consistent simulations: 
+   thermo-fluids, neutron transport, and transmutation and recycling.
 
+|
+|
+|
+|
 
 .. figure:: mocdown_accel.png
+   :width: 700px
    :scale: 50 %
    :alt: Acceleration scheme, equilibrium cycle
 
-   The MocDown accelerated recycling scheme efficiently finds the equilibrium cycle, whose isotopic composition matches that of its successor.
+   Figure 2: The MocDown accelerated recycling scheme efficiently finds the 
+   equilibrium cycle, whose isotopic composition matches that of its successor.
+
+|
+|
+|
+|
 
 
 .. figure:: mocdown_rbwrth.png
+   :width: 700px
    :scale: 50 %
    :alt: RBWR-Th core
 
-   The RBWR-Th is a fuel-self-sustaining nuclear reactor core design which operates with only thorium as its charge.  MocDown has been successfully used to simulate this design.
+   Figure 3: The RBWR-Th is a fuel-self-sustaining nuclear reactor core design 
+   which operates with only thorium as its charge.  MocDown has been 
+   successfully used to simulate this design.
 
 
 .. _MocDown_Source: https://github.com/jeffseif/mocdown
