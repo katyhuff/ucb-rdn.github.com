@@ -3,25 +3,6 @@ MocDown
 
 **Primary Developer:**  :doc:`../people/seifried_jeffrey`
 
-Simulation
-----------
-
-.. toctree::
-   :maxdepth: 1
-
-
-
-Analysis
---------
-
-
-.. toctree::
-   :maxdepth: 1
-   
-   analysis_proj
-
-
-
 **Source Code:** MocDown_Source_
 
 Description
