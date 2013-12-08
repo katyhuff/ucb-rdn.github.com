@@ -3,36 +3,12 @@ Projects
 ========
 
 
-Design
-------
+The work of this group emphasizes the reactor physics and neutronics in the 
+design, simulation, and analysis of advanced reactors. 
 
 
 .. toctree::
    :maxdepth: 1
 
-   design_proj_1
-   design_proj_2
-
-
-
-Simulation
-----------
-
-.. toctree::
-   :maxdepth: 1
-
-   code_proj_1
-   code_proj_2
-
-
-Analysis
---------
-
-
-.. toctree::
-   :maxdepth: 1
-   
-   analysis_proj
-
-
+   mocdown
 
