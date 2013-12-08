@@ -1,7 +1,7 @@
 MocDown 
 =======
 
-**Primary Developer:**  :doc:`../people/seifried_jeffrey`
+**Primary Developer:**  :doc:`../../people/seifried_jeffrey`
 
 **Source Code:** MocDown_Source_
 
