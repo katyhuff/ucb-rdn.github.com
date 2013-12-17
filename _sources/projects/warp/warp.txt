@@ -27,9 +27,6 @@ embedded python interpreter.
 
 
 |
-|
-|
-|
 
 .. figure:: warp_geom.png
    :width: 700px
@@ -40,14 +37,11 @@ embedded python interpreter.
    geometries.
 
 |
-|
-|
-|
 
-.. figure:: warp_serp_u235_spectra.png
-   :width: 700px
-   :scale: 50 %
-   :alt: WARP results compare well to serpent for 235U. 
+   .. image:: warp_serp_u235_spectra.png
+      :height: 210px
+   .. image:: warp_serp_homogenized_fuel_spectra.png
+      :height: 210px
 
    Figure 2: WARP results compare very well to the results in Serpent for a 
-   block of uranium-235. 
+   block of uranium-235 and a block of homogenized fuel. 
