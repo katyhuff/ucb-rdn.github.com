@@ -5,11 +5,8 @@ MocDown
 
 **Source Code:** MocDown_Source_
 
-<<<<<<< HEAD
 **Source Website:** MocDown_Website_
 
-=======
->>>>>>> f767595d343d1e3a8c98b838c9286c37f1e14bda
 Description
 ***********
 
@@ -64,9 +61,5 @@ with external libraries.
    successfully used to simulate this design.
 
 
-<<<<<<< HEAD
 .. _MocDown_Source: https://github.com/jeffseif/MocDown
 .. _MocDown_Website: https://jeffseif.github.com/MocDown
-=======
-.. _MocDown_Source: https://github.com/jeffseif/mocdown
->>>>>>> f767595d343d1e3a8c98b838c9286c37f1e14bda
