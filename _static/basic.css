@@ -4,7 +4,11 @@
  *
  * Sphinx stylesheet -- basic theme.
  *
+<<<<<<< HEAD
  * :copyright: Copyright 2007-2011 by the Sphinx team, see AUTHORS.
+=======
+ * :copyright: Copyright 2007-2013 by the Sphinx team, see AUTHORS.
+>>>>>>> f767595d343d1e3a8c98b838c9286c37f1e14bda
  * :license: BSD, see LICENSE for details.
  *
  */
@@ -401,10 +405,13 @@ dl.glossary dt {
     margin: 0;
 }
 
+<<<<<<< HEAD
 .refcount {
     color: #060;
 }
 
+=======
+>>>>>>> f767595d343d1e3a8c98b838c9286c37f1e14bda
 .optional {
     font-size: 1.3em;
 }

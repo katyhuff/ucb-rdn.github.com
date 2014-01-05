@@ -4,7 +4,11 @@
  *
  * sphinx.websupport utilties for all documentation.
  *
+<<<<<<< HEAD
  * :copyright: Copyright 2007-2011 by the Sphinx team, see AUTHORS.
+=======
+ * :copyright: Copyright 2007-2013 by the Sphinx team, see AUTHORS.
+>>>>>>> f767595d343d1e3a8c98b838c9286c37f1e14bda
  * :license: BSD, see LICENSE for details.
  *
  */
