@@ -9,6 +9,7 @@ Faculty
    :maxdepth: 1
    
    vujic_jasmina
+   slaybaugh_rachel
 
 Staff
 -----
