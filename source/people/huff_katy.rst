@@ -6,7 +6,7 @@ Dr. Kathryn (Katy) Huff, Postdoctoral Scholar
    :width: 150px
    :alt: Dr. Kathryn (Katy) Huff
    :align: left
-   :target: `homepage`_
+   :target: `Homepage`_
 
 
 |
@@ -27,7 +27,7 @@ Contact Information
 | `Email`_ 
 | `Calendar <http://bit.ly/nNEP6U>`_ 
 | `Twitter <twitter.com/katyhuff>`_
-| `homepage`_
+| `Homepage`_
 |
 | 2150 Shattuck Ave, room 230
 | OR
@@ -83,7 +83,7 @@ Please see my `publications list <http://katyhuff.github.com/pubs.html>`_
 and `curriculum vitae <http://katyhuff.github.com/papers/cv.pdf>`_ 
 for more information.
 
-.. _homepage: http://katyhuff.github.com
+.. _Homepage: http://katyhuff.github.com
 .. _Email: khuff@berkeley.edu
 .. |accent| unicode:: U+0301
    :ltrim:
