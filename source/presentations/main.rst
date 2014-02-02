@@ -11,12 +11,12 @@ Past
 Upcoming
 --------
 
-* **February 5, 2014** Jason `TBD <>`_
-* **February 12, 2014** Madicken Munk  `TBD <>`_
-* **February 19, 2014** Guanheng (George) Zhang `TBD <>`_
-* **February 26, 2014** Phil Gorman `TBD <>`_
-* **March 5, 2014** Christian DiSanzo `TBD <>`_
-* **March 12, 2014** Sandra Bogetic `TBD <>`_
+* **February 5, 2014** Jason Hou `TBD`_
+* **February 12, 2014** Madicken Munk  `TBD`_
+* **February 19, 2014** Guanheng (George) Zhang `TBD`_
+* **February 26, 2014** Phil Gorman `TBD`_
+* **March 5, 2014** Christian DiSanzo `TBD`_
+* **March 12, 2014** Sandra Bogetic `TBD`_
 
 
 
