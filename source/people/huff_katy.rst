@@ -59,6 +59,7 @@ Current Projects
 - `Cyclus <http://cyclus.github.com>`_ project management and development
 - `Cyder <https://github.com/katyhuff/cyder>`_ project development
 - `Software Carpentry <http://software-carpentry.org/about/our-team/>`_ teacher and organizer
+- `SciPy Conference <https://conference.scipy.org/scipy2014/>`_ technical program co-chair
 - `inSCIght <inscight.wordpress.com>`_ podcast
 - `pyNE <http://pyne.github.com>`_
 
