@@ -11,12 +11,11 @@ Past
 Upcoming
 --------
 
-* **February 5, 2014** Jason Hou :download:`TBD <>`
-* **February 12, 2014** Madicken Munk  :download:`TBD <>`
-* **February 19, 2014** Guanheng (George) Zhang :download:`TBD <>`
+* **February 5, 2014** Meg Suvdantsetseg, :download:`A parametric study of the ARC system dynamic response using SAS4A/SASSYS-1 code. <>`
+* **February 12, 2014** Jason Hou :download:`TBD <>`
+* **February 19, 2014** Madicken Munk  :download:`TBD <>`
 * **February 26, 2014** Phil Gorman :download:`TBD <>`
-* **March 5, 2014** Christian DiSanzo :download:`TBD <>`
-* **March 12, 2014** Sandra Bogetic :download:`TBD <>`
-
-
+* **February 5, 2014** Guanheng (George) Zhang :download:`TBD <>`
+* **March 12, 2014** Christian DiSanzo :download:`TBD <>`
+* **March 19, 2014** Sandra Bogetic :download:`TBD <>`
 
