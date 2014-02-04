@@ -56,12 +56,12 @@ Current Projects
 --------------------
 
 - `FHR <http://fhr.nuc.berkeley.edu>`_ computational neutronics and accident analysis
-- `Cyclus <http://cyclus.github.com>`_ project management and development
-- `Cyder <https://github.com/katyhuff/cyder>`_ project development
+- `Cyclus <http://cyclus.github.com>`_ project development
+- `Cyder <https://github.com/katyhuff/cyder>`_ project management and development
 - `Software Carpentry <http://software-carpentry.org/about/our-team/>`_ teacher and organizer
 - `SciPy Conference <https://conference.scipy.org/scipy2014/>`_ technical program co-chair
 - `inSCIght <inscight.wordpress.com>`_ podcast
-- `pyNE <http://pyne.github.com>`_
+- `PyNE <http://pyne.github.com>`_
 
 Past Projects
 --------------------
