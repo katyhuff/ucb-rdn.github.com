@@ -6,7 +6,7 @@ Dr. Kathryn (Katy) Huff, Postdoctoral Scholar
    :width: 150px
    :alt: Dr. Kathryn (Katy) Huff
    :align: left
-   :target: `homepage`_
+   :target: `Homepage`_
 
 
 |
@@ -27,7 +27,7 @@ Contact Information
 | `Email`_ 
 | `Calendar <http://bit.ly/nNEP6U>`_ 
 | `Twitter <twitter.com/katyhuff>`_
-| `homepage`_
+| `Homepage`_
 |
 | 2150 Shattuck Ave, room 230
 | OR
@@ -56,12 +56,12 @@ Current Projects
 --------------------
 
 - `FHR <http://fhr.nuc.berkeley.edu>`_ computational neutronics and accident analysis
-- `Cyclus <http://cyclus.github.com>`_ project management and development
-- `Cyder <https://github.com/katyhuff/cyder>`_ project development
+- `Cyclus <http://cyclus.github.com>`_ project development
+- `Cyder <https://github.com/katyhuff/cyder>`_ project management and development
 - `Software Carpentry <http://software-carpentry.org/about/our-team/>`_ teacher and organizer
 - `SciPy Conference <https://conference.scipy.org/scipy2014/>`_ technical program co-chair
 - `inSCIght <inscight.wordpress.com>`_ podcast
-- `pyNE <http://pyne.github.com>`_
+- `PyNE <http://pyne.github.com>`_
 
 Past Projects
 --------------------
@@ -83,7 +83,7 @@ Please see my `publications list <http://katyhuff.github.com/pubs.html>`_
 and `curriculum vitae <http://katyhuff.github.com/papers/cv.pdf>`_ 
 for more information.
 
-.. _homepage: http://katyhuff.github.com
+.. _Homepage: http://katyhuff.github.com
 .. _Email: khuff@berkeley.edu
 .. |accent| unicode:: U+0301
    :ltrim:
