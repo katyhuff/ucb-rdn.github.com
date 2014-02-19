@@ -12,7 +12,7 @@ Upcoming
 --------
 
 * **February 5, 2014** Meg Suvdantsetseg, :download:`A parametric study of the ARC system dynamic response using SAS4A/SASSYS-1 code. <>`
-* **February 12, 2014** Jason Hou :download:`TBD <>`
+* **February 12, 2014** Jason Hou `Development of An Iterative Lattice-Core Coupling Method Based on MICROX-2 Cross Section Library. <https://bspace.berkeley.edu/access/content/group/a1f15233-9bc1-4b56-8d0e-2a3393dc5181/Seminar%20Presentations/Spring%202014/jhou-2014UCB-slides.pdf>`
 * **February 19, 2014** Madicken Munk  :download:`TBD <>`
 * **February 26, 2014** Phil Gorman :download:`TBD <>`
 * **February 5, 2014** Guanheng (George) Zhang :download:`TBD <>`
