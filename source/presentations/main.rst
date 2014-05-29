@@ -9,7 +9,6 @@ Past
 * **October 1, 2013** Ryan Bergmann :download:`Monte Carlo Neutron Transport on GPUs: Progress Report <./pdf/2013.10.01.pdf>`
 * **February 5, 2014** Meg Suvdantsetseg, `A parametric study of the ARC system dynamic response using SAS4A/SASSYS-1 code.`
 * **February 12, 2014** Jason Hou `Development of An Iterative Lattice-Core Coupling Method Based on MICROX-2 Cross Section Library. <https://bspace.berkeley.edu/access/content/group/a1f15233-9bc1-4b56-8d0e-2a3393dc5181/Seminar%20Presentations/Spring%202014/jhou-2014UCB-slides.pdf>`_
-<<<<<<< HEAD
 * **February 19, 2014** Madicken Munk `A Structural Mechanics Analysis of a Fluoride Salt-Cooled Reactor Central Reflector`
 * **February 26, 2014** Phil Gorman `The fuel-self-sustaining RBWR-Th core concept and parametric studies`
 * **March 5, 2014** Jiankai (Jack) Yu  `Validation of Updated Resonance Reconstruction module of RXSP based on a New Resonance formula`
