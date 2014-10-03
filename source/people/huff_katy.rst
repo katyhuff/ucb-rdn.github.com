@@ -84,6 +84,6 @@ and `curriculum vitae <http://katyhuff.github.com/papers/cv.pdf>`_
 for more information.
 
 .. _Homepage: http://katyhuff.github.com
-.. _Email: khuff@berkeley.edu
+.. _Email: katyhuff@gmail.com
 .. |accent| unicode:: U+0301
    :ltrim:
