@@ -17,7 +17,6 @@ Staff
 .. toctree::
    :maxdepth: 1
 
-   seifried_jeffrey
    huff_katy 
 
 
