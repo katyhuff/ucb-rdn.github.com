@@ -9,6 +9,14 @@ Christian Di Sanzo, Ph.D. Candidate
 
 
 | `Email <cdisanzo@berkeley.edu>`_ 
+|
+|
+|
+|
+|
+|
+|
+|
 
 Education
 ---------
