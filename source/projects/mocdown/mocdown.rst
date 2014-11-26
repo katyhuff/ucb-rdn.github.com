@@ -1,7 +1,7 @@
 MocDown 
 =======
 
-**Primary Developer:**  :doc:`../../people/seifried_jeffrey`
+**Primary Developer:**  jeffseif_Website
 
 **Source Code:** MocDown_Source_
 
@@ -61,5 +61,6 @@ with external libraries.
    successfully used to simulate this design.
 
 
+.. _jeffseif_Website: https://jeffseif.github.com/
 .. _MocDown_Source: https://github.com/jeffseif/MocDown
 .. _MocDown_Website: https://jeffseif.github.com/MocDown
